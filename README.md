@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently studying computer science at the Gdańsk University of Technology.
+📫 How to reach me: email: damiantrowski.c@gmail.com
 <!--
 **D4M14N20/D4M14N20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
