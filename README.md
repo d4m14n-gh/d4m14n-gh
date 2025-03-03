@@ -1,8 +1,23 @@
-### Hi there 👋
+## 👋 Hi there 
 🌱 I’m currently studying computer science at the Gdańsk University of Technology.
 
 📫 How to reach me: 
- - email: damiantrowski.c@gmail.com
+ - email: [damiantrowski.c@gmail.com](mailto:damiantrowski.c@gmail.com)
+
+<!--
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Cloud:** AWS, Azure, Google Cloud](url)
+-->
+
+## 📈 GitHub Stats
+![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4m14n-gh&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4m14n-gh&layout=compact&theme=dark)
+
+
 <!--
 **D4M14N20/D4M14N20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
